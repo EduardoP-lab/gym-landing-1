@@ -45,10 +45,6 @@ ul {
     display: none !important;
 }
 
-body {
-    /* background-color: #3B3C36;   */
-}
-
 html {
     scroll-behavior: smooth;
     
